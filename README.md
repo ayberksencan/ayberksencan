@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/ayberkio" target="blank"><img src="https://img.shields.io/twitter/follow/ayberkio?logo=twitter&style=for-the-badge" alt="ayberkio" /></a> </p>
 
-- 🎓 I'm graduated from Gazi University Computer Engineering Department
+- 🎓 I graduated from Gazi University Computer Engineering Department
 
 - 👨‍🎓 I'm still a master degree student at Gazi University Computer Engineering Department
 
