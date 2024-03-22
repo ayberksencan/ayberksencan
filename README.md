@@ -11,15 +11,15 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/ayberkio" target="blank"><img src="https://img.shields.io/twitter/follow/ayberkio?logo=twitter&style=for-the-badge" alt="ayberkio" /></a> </p>
 
-- 🎓 I graduated from Gazi University Computer Engineering Department
+- 🎓 I graduated from Gazi University Computer Engineering Department.
 
-- 👨‍🎓 I'm still a master degree student at Gazi University Computer Engineering Department
+- 👨‍🎓 I graduated with a Master's degree in Computer Engineering from Gazi University in January 2024.
 
-- 👨‍🏫 I'm also a Research Assistant at Gazi University Faculty of Technology Computer Engineering Department
+- 👨‍🏫 I'm also a Research Assistant at Gazi University Faculty of Technology Computer Engineering Department since March 2022.
 
 - 📚 I'm currently learning **Flutter**
 
-- ⏰ I'm mostly working on **AI, Machine Learning, Deep Learning, Social Media Analysis etc.**
+- ⏰ I'm mostly working on **AI, Machine Learning, Deep Learning, Social Media Analysis, Natural Language Processing etc.**
 
 - 📫 How to reach me -> ayberk.sencan@gmail.com / oayberksencan@gazi.edu.tr
 
