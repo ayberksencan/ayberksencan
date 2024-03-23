@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Ayberk ŞENCAN</h1>
 <h3 align="center">A learning-addict and developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayberksencan&label=Profile%20views&color=0e75b6&style=flat" alt="ayberksencan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayberksencan&label=Profile%20views&color=0e75b6&style=flat&row=3&column=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="ayberksencan" /> </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayberksencan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
