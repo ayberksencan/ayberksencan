@@ -7,7 +7,8 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayberksencan&label=Profile%20views&color=0e75b6&style=flat" alt="ayberksencan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayberksencan" alt="ayberksencan" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ayberksencan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 <p align="left"> <a href="https://twitter.com/ayberkio" target="blank"><img src="https://img.shields.io/twitter/follow/ayberkio?logo=twitter&style=for-the-badge" alt="ayberkio" /></a> </p>
 
@@ -44,8 +45,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayberksencan&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayberksencan&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ayberksencan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ayberksencan&limit=5&theme=radical&combine_all_yearly_contributions=true)
