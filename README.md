@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📚 I'm currently learning **Flutter**
 
-- ⏰ I'm mostly working on **AI, Machine Learning, Deep Learning, Social Media Analysis, Natural Language Processing etc.**
+- ⏰ I'm mostly working on **Mobile Development, AI, Machine Learning, Deep Learning, Social Media Analysis, Natural Language Processing etc.**
 
 - 📫 How to reach me -> ayberk.sencan@gmail.com / oayberksencan@gazi.edu.tr
 
